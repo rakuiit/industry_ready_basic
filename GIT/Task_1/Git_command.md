@@ -48,42 +48,42 @@
 9. **git branch dev:** To create a new dev branch
 
            
-     ![Git branch command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_new.png)
+     ![Git branch command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_branch_new.png)
 
 
 10. **git checkout dev:** To switch a new dev branch
 
            
-     ![Git checkout command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_switch.png)
+     ![Git checkout command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_branch_switch.png)
 
 11. **git merge dev:** To merge the new dev branch with the old branch main branch
 
            
-     ![Git merge command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_merge.png)
+     ![Git merge command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_merge.png)
 
 12. **git branch -d dev:** To delete the new dev branch
 
            
-     ![Git branch delete command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_delete.png)
+     ![Git branch delete command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_branch_delete.png)
 
 
 13. **git log:** TO check out the log file for more information
 
            
-     ![Git log command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_log.png)
+     ![Git log command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_log.png)
 
 
 14. **git show:** This command shows the metadata and content changes of the specified commit.
 
 
            
-     ![Git show command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_show.png)
+     ![Git show command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_branch_show.png)
 
 
 15. **git tag:** This command is used to give tags to the specified commit.
 
            
-     ![Git tag command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_tag.png)
+     ![Git tag command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_tag.png)
 
 
 
