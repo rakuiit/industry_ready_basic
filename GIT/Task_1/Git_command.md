@@ -77,13 +77,13 @@
 
 
            
-     ![Git show command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_branch_show.png)
+     ![Git show command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_show.png)
 
 
 15. **git tag:** This command is used to give tags to the specified commit.
 
            
-     ![Git tag command](https://github.com/rakuiit/industry_ready_basic/blob/2bf2315b1d28d2ce838d6e6d4cd200b316e6da55/GIT/Task_1/screenshot/git_tag.png)
+ 
 
 
 
