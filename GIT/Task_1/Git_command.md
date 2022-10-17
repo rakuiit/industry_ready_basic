@@ -44,4 +44,31 @@
 
            
      ![Git version command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch.png)
+
+9. **git branch dev:** To create a new dev branch
+
+           
+     ![Git version command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_new.png)
+
+
+10. **git checkout dev:** To switch a new dev branch
+
+           
+     ![Git version command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_switch.png)
+
+11. **git merge dev:** To merge the new dev branch with the old branch main branch
+
+           
+     ![Git version command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch_merge.png)
+
+12. **git branch:** To show the list of branches
+
+           
+     ![Git version command](https://github.com/rakuiit/industry_ready_basic/blob/12af6b4825b0d45b9e3abbce98611d8666e2fb51/GIT/Task_1/screenshot/git_branch.png)
+
+
+
+
+
+
     
