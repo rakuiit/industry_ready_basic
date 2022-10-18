@@ -1,7 +1,7 @@
 # Docker Command 
 
-1. **git --version:** To check the version of git
+1. **docker image:** To check the list of images
 
            
-     ![Git version command](https://github.com/rakuiit/industry_ready_basic/blob/3a1cb8d0b1176ae4e85f6eb49e0273d8e6634be9/GIT/Task_1/screenshot/git_version.png)   
+     ![docker image](https://github.com/rakuiit/industry_ready_basic/blob/a0b8c5969a3c058c551e344ba41a2dc0acb931b5/Docker/screenshot/docker_images.png)   
     
